@@ -1,7 +1,7 @@
 # Ahmed Elbalal — Software Projects 👋
 
-Frontend Developer based in Montreal, Canada 🇨🇦  
-Building practical applications with React, TypeScript and JavaScript
+Building practical software for hospitality, analytics, and e-commerce.  
+React · JavaScript · TypeScript · Node.js
 
 ---
 
@@ -11,7 +11,8 @@ Building practical applications with React, TypeScript and JavaScript
 - 🌐 Portfolio: [ahmedelbalal.dev](https://ahmedelbalal.dev)
 - 📧 Contact: [ahmedelbalal@ahmedelbalal.dev](mailto:ahmedelbalal@ahmedelbalal.dev)
 - 📍 Montreal, Canada — Open to remote opportunities
-- 🔭 Currently working on improving my testing skills with Jest & RTL
+- 🏨 Hospitality domain knowledge informs my HOTELI property-management project
+- 🔭 Exploring testing, maintainable APIs, and accessible interfaces
 
 ---
 
@@ -32,6 +33,7 @@ Node.js · Testing (Jest/RTL) · AWS · PostgreSQL
 
 | Project | Description | Stack |
 |---|---|---|
+| [HOTELI PMS](https://github.com/AhmedElbalal/hoteli-pms) | Hotel property-management MVP: reservations, folios and night audit (demo; not production-ready) | React, Express |
 | [Shopify Dashboard](https://github.com/AhmedElbalal/shopify-ops-dashboard) | E-commerce operations dashboard | React, TypeScript, Recharts |
 | [PulseGrid](https://github.com/AhmedElbalal/pulsegrid) | Real-time analytics SaaS — Turborepo monorepo | React, TypeScript, Docker |
 | [EcoShop](https://github.com/AhmedElbalal/ecoshop-react) | Full e-commerce platform | React, Context API |
@@ -43,18 +45,3 @@ Node.js · Testing (Jest/RTL) · AWS · PostgreSQL
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedelbalal.dev-blue?style=flat-square)](https://ahmedelbalal.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Elbalal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-a-460b36160/)
 [![GitHub](https://img.shields.io/badge/GitHub-AhmedElbalal-black?style=flat-square&logo=github)](https://github.com/AhmedElbalal)
-
-<!--
-**AhmedElbalal/AhmedElbalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
