@@ -1,13 +1,13 @@
-## Hi there 👋# Hi, I'm Ahmed Elbalal 👋
+# Ahmed Elbalal — Software Projects 👋
 
 Frontend Developer based in Montreal, Canada 🇨🇦  
-Building scalable, performant web apps with React, TypeScript & Next.js
+Building practical applications with React, TypeScript and JavaScript
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Frontend Developer at **Oz Tech** — Shopify & E-commerce
+- 💼 Working on web applications, e-commerce dashboards, and hospitality software
 - 🌐 Portfolio: [ahmedelbalal.dev](https://ahmedelbalal.dev)
 - 📧 Contact: [ahmedelbalal@ahmedelbalal.dev](mailto:ahmedelbalal@ahmedelbalal.dev)
 - 📍 Montreal, Canada — Open to remote opportunities
